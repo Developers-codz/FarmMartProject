@@ -1,0 +1,28 @@
+.color-white{
+    color:white;
+}
+.bg-green{
+    background-color: rgba(63, 187, 6, 0.815);
+}
+.font-size-12{
+    font-size: 12px;
+}
+.font-size-16{
+    font-size: 16px;
+}
+.font-size-20{
+    font-size: 20px;
+}
+.font-size-26{
+    font-size: 26px;
+}
+.font-crimson{
+    font-family: 'Crimson Text', serif;
+}
+.font-Sriracha{
+    font-family: 'Sriracha', cursive;
+}
+.font-Slab{
+    font-family: 'Antic Slab', serif;
+}
+
